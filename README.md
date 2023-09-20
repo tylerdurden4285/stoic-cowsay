@@ -10,7 +10,6 @@ add the main folder with the files into your /home directory, I prefer to have i
 ## Step 3 
 Go to your ~/.bashrc and add the following line to the bottom of your file so that it runs each time you login or change users
 
-> # Stoic cowsay
 > echo ""
 > echo "YOUR STOIC COW SAYS..."
 > echo ""
